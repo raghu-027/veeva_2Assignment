@@ -1,0 +1,37 @@
+SDLC (Software Development Life Cycle) :
+
+1. Requirement Gathering & Analysis
+
+Collect what the users need.
+
+Document functional and non-functional requirements.
+
+2. System Design
+
+Plan the system structure and architecture.
+
+Design database, modules, and user interface.
+
+3. Implementation / Coding
+
+Developers write the actual code.
+
+Follow coding standards and best practices.
+
+4. Testing
+
+Check if the software works correctly.
+
+Fix any bugs or errors.
+
+5. Deployment
+
+Release the software for users.
+
+Make it live on servers or devices.
+
+6. Maintenance
+
+Fix issues found after release.
+
+Update and improve software over time.

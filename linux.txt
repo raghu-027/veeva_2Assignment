@@ -1,0 +1,29 @@
+1. Create a directory
+
+mkdir my_dir
+2. Navigate into it
+
+cd my_dir
+
+3. Create a file
+
+touch my_file.txt
+
+4. Assign permissions
+
+chmod u=rw,g=r,o=r my_file.txt
+
+
+b) Using numeric notation
+
+chmod 644 my_file.txt
+
+5. Display file content
+
+cat my_file.txt
+
+6. Verify file permissions
+
+ls -l my_file.txt
+
+
